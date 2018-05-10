@@ -1,2 +1,2 @@
-# MetodosNumericos
-Artículo sobre un el método numérico Simpson 1/3
+# Métodos Numéricos
+Artículo sobre el método numérico Simpson 1/3
