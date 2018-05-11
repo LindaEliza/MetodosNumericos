@@ -1,6 +1,6 @@
-//Método de simpson 1/3
+//Simpson's Methods 1/3
 fn main() {
-    println!("El valor de la integral es: {}", simpson(0.0, 0.8, 4));
+    println!("The approximate value of the integral is: {}", simpson(0.0, 0.8, 4));
 }
 
 fn simpson(a: f64, b: f64, n: i32) -> f64 {
